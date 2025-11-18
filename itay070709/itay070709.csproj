@@ -91,6 +91,7 @@
     <Content Include="ing\super_saiyan_lion__bing_ai_1__by_criszilla101_dingo66-414w-removebg-preview.png" />
     <Content Include="itay.html" />
     <Content Include="itay0707.css" />
+    <Content Include="JavaScript.js" />
     <Content Include="lion.html" />
     <Content Include="Web.config" />
   </ItemGroup>
