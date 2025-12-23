@@ -79,9 +79,22 @@
   <ItemGroup>
     <Content Include="79321e9d2616146d91a8d95f6e28cb1f-removebg-preview.png" />
     <Content Include="elephant.html" />
-    <Content Include="HtmlPage2.html" />
-    <Content Include="HtmlPage3.html" />
+    <Content Include="Ex22.html" />
+    <Content Include="Ex22.js" />
+    <Content Include="exercise 1.js" />
+    <Content Include="Html1.html" />
+    <Content Include="Html2.html" />
+    <Content Include="Html3.html" />
+    <Content Include="Html4.html" />
+    <Content Include="Html5.html" />
+    <Content Include="HtmlPageCalc.html" />
+    <Content Include="tavla.html" />
     <Content Include="images-removebg-preview.png" />
+    <Content Include="ing\1.jpg" />
+    <Content Include="ing\2.jpg" />
+    <Content Include="ing\3.jpg" />
+    <Content Include="ing\4.jpg" />
+    <Content Include="ing\5.jpg" />
     <Content Include="ing\arrow-removebg-preview.png" />
     <Content Include="ing\images__1_-removebg-preview.png" />
     <Content Include="ing\images__2_-removebg-preview.png" />
@@ -91,6 +104,8 @@
     <Content Include="ing\super_saiyan_lion__bing_ai_1__by_criszilla101_dingo66-414w-removebg-preview.png" />
     <Content Include="itay.html" />
     <Content Include="itay0707.css" />
+    <Content Include="JavaScript.js" />
+    <Content Include="JavaScriptCalc.js" />
     <Content Include="lion.html" />
     <Content Include="Web.config" />
   </ItemGroup>

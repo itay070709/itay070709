@@ -9,8 +9,11 @@ h1{
    font-style:italic;
    font-size:50pt;
 }
-table, tr, td{
-  border:1px dashed black;
+table{
+  border:2px solid black;
+  width:100%;
+  border-collapse:collapse;
+  text-align: center;
 }
 body {
     direction: rtl;
@@ -18,4 +21,39 @@ body {
     margin-left: 50px;
     margin-right: 50px;
 }
-
+body {
+    direction:rtl;
+}
+th {
+    border:2px solid black;
+}
+td {
+    border:2px solid black;
+}
+.math {
+    background-color: cyan;
+}
+.tanach {
+    background-color: saddlebrown;
+}
+.mdm {
+    background-color: red;
+}
+.hebrew {
+    background-color: deeppink;
+}
+.safrot {
+    background-color: purple;
+}
+.physics {
+    background-color:aquamarine;
+}
+.english {
+    background-color: green;
+}
+.history {
+    background-color:bisque;
+}
+.hng {
+    background-color: grey;
+}
