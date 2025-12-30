@@ -87,6 +87,7 @@
     <Content Include="Html3.html" />
     <Content Include="Html4.html" />
     <Content Include="Html5.html" />
+    <Content Include="HtmlJavaScript.html" />
     <Content Include="HtmlPageCalc.html" />
     <Content Include="tavla.html" />
     <Content Include="images-removebg-preview.png" />
