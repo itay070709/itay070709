@@ -1,6 +1,6 @@
 ﻿alert("bachira");
 var num = prompt("enter a number",7);
-//var num = parseInt(prompt("enter a number"));
+var num = parseInt(prompt("enter a number"));
 var name = "bachira";
 //document.write("hello bachira");
 //var name = prompt("click your name", "");
